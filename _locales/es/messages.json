@@ -1,0 +1,11 @@
+{
+  "title": {
+    "message": "Gimp online - editor de imágenes y herramienta de pintura"
+  },
+  "description": {
+    "message": "Crear y editar imagenes con Gimp online"
+  },
+  "new_png": {
+    "message": "Nueva Imagen"
+  }
+}

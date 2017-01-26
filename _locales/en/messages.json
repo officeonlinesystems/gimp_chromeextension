@@ -1,0 +1,11 @@
+{
+  "title": {
+    "message": "Gimp online - image editor and paint tool"
+  },
+  "description": {
+    "message": "Create and edit images and photos with Gimp Online"
+  },
+  "new_png": {
+    "message": "New Image"
+  }
+}
