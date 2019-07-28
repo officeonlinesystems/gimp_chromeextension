@@ -27,3 +27,6 @@ Main features:
 
 
 A Demo and Further instructions can be found at http://www.offidocs.com/index.php/desktop-online-images-graphics-apps/gimp-online-images-editor-paint-tool
+
+* Video Demo
+[![Gimp online](http://img.youtube.com/vi/gsVSFDlSZVU/0.jpg)](http://www.youtube.com/watch?v=gsVSFDlSZVU "Gimp online")
